@@ -1,0 +1,47 @@
+@media screen and (min-width: 1024px) {
+  .hero-title {
+    font-size: 50px;
+    line-height: 58px;
+  }
+  .hero-desc {
+    font-size: 20px;
+  }
+  .service-title {
+    font-size: 22px;
+  }
+}
+@media screen and (max-width: 1023.98px) {
+  .header-nav {
+    gap: 12px;
+  }
+  .header-link {
+    font-size: 15px;
+  }
+  .header-icon {
+    gap: 15px;
+  }
+  .hero-main {
+    gap: 30px;
+  }
+  .hero-title {
+    font-size: 37px;
+    line-height: 48px;
+    margin-bottom: 15px;
+  }
+  .hero-desc {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .button-primary {
+    font-size: 15px;
+  }
+  .hero-info {
+    padding: 20px;
+  }
+  .hero-number {
+    font-size: 25px;
+  }
+  .hero-text {
+    font-size: 18px;
+  }
+}

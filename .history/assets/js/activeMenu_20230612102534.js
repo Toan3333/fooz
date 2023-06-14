@@ -1,0 +1,7 @@
+function changeProductList(type, element) {
+  let tabs = document.getElementsByClassName("tab-item");
+  for (i = 0; i < tabs.length; i++) {
+    tabs[i].style.background = "#04b90b";
+  }
+  console.log(tabs);
+}
